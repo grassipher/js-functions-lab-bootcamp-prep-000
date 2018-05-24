@@ -8,6 +8,6 @@ function happyHolidaysTo(name){
 function happyHolidayTo(holiday, name){
   return `Happy ${holiday}, ${name}!`
 }
-function holidayCountdowwn(days, holiday){
+function holidayCountdowwn(holiday, days){
   return `It's ${days} days until ${holiday}!`
 }
